@@ -34,5 +34,4 @@ jupyter notebook SIRA_evaluation_test.ipynb
 - `SIRA_evaluation_test.ipynb`: Full test notebook with results
 - `SIRA_evaluation_test.pdf`: Exported notebook (with outputs)
 - `SIRA_evaluation_test.html`: Exported notebook (with outputs)
-- `SIRA_Proposal_TianchuHang.pdf`: Full GSoC proposal
 - `TianchuHang_CV.pdf`: My resume
